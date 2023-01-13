@@ -1,0 +1,5 @@
+jQuery selectors allow to select and manipulate HTML element(S)
+jQuery selectors are used to find or select html elements based on thier name, 
+id, classes, types, attributes, values of attributes and much more. It's based on the existing 
+CSS Selectors, and in addition, it has somee own custom selectors.  
+ Everything popular is wrong.
